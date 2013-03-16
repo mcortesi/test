@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.twitter:ostrich:9.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/ostrich/jars/ostrich-9.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/ostrich/srcs/ostrich-9.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
